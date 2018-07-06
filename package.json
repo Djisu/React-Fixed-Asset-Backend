@@ -1,0 +1,17 @@
+{
+  "name": "fixedassets",
+  "version": "1.0.0",
+  "description": "A fixed assets reguster app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "nodemon": "^1.17.5"
+  },
+  "author": "Paul Fleischer-Djoleto",
+  "license": "ISC"
+}
